@@ -1,2 +1,1 @@
-# Consulting project
-# City of Milwaukee Assessors Office
+## Comp selection techniques for the City of Milwaukee Assessors Office
